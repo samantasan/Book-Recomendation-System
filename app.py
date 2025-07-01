@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from flask import Flask, render_template,request
 import pickle
 import numpy as np
@@ -92,4 +91,3 @@ def recommend():
 
 if __name__ == '__main__':
     app.run(debug=True)
->>>>>>> a0f04c255a3559cdff17f74d319db670a1fcdc25
